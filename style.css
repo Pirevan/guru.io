@@ -1,0 +1,112 @@
+body {
+  font-family: 'Montserrat', sans-serif;;
+  
+
+  line-height: 1.4em;
+  background-image: url(images/light-grey-terrazzo.png); 
+}
+
+
+
+#Video	{
+
+	border: 10px solid black;
+	margin: 10px;
+
+}
+
+#picture	{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	border: 5px solid black;
+	margin: 5%;
+	padding: 5%;
+
+
+}
+
+#Instagram	{
+
+	text-decoration: none;	
+}
+
+#back-to-top 	{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	text-decoration: none;
+	font-family:Georgia;
+	font-color:black;
+
+}
+
+ @media (max-width: )
+.look	{
+	border: 2px solid black;
+	background-color:#purple;
+	margin-top: 5px;
+
+	
+
+}
+
+
+
+} 
+#about-me	{
+	color: rgb (196, 57, 232);
+}
+
+#box1	{
+
+	
+	border:50px solid red;
+	margin-left: 50%;
+	margin-right:50%;
+	padding: 50px;
+	background-color: black;
+
+
+}
+
+
+
+.navfoot	{
+	position: fixed;
+}
+
+
+.pokemon {
+  display: inline-block;
+  width: 100px;
+}
+
+aside	{
+	/*float: left;*/
+	border: 5px solid black;
+	width: 204px;
+	float: right;
+	position: relative;
+	/*margin-top: -259px;*/
+	/*clear:both;
+	margin-top: -2200px;
+	position: relative;
+	top: -2000px;*/*/
+
+}
+
+#navig	{
+	border:3px solid black ;
+	text-decoration: none;
+	/*position: absolute;*/
+	/*margin-left: 790px;*/
+	float: right;
+	display: flex;
+	justify-content: space-between;
+	display: inline;
+	
+
+	
+}
